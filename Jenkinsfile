@@ -1,3 +1,2 @@
 unit_test()
-build()
-// static_code_analysis()
+build()static_code_analysis()
